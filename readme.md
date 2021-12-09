@@ -1,6 +1,6 @@
-# @intouchg/substate
+# @novas/substate
 
-1kb subscription-based state hooks for React
+1kb subscription-based state hooks for React, forked from [@novas/substate](https://github.com/codynova/substate)
 
 ## Installation
 
