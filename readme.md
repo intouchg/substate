@@ -1,6 +1,6 @@
 # @novas/substate
 
-1kb subscription-based state hooks for React, forked from [@novas/substate](https://github.com/codynova/substate)
+1kb subscription-based context hooks for React, forked from [@novas/substate](https://github.com/codynova/substate)
 
 ## Installation
 

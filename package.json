@@ -1,10 +1,10 @@
 {
 	"name": "@intouchg/substate",
 	"version": "0.0.1",
-	"description": "1kb subscription-based state hooks for React",
+	"description": "1kb subscription-based context hooks for React",
 	"module": "dist/substate.esm.js",
 	"types": "dist/index.d.ts",
-	"repository": "https://intazdoweb.intouchsol.com/IntouchDesignSystem/IntouchDesignSystem/_git/substate",
+	"repository": "https://github.com/intouchg/substate",
 	"author": "Intouch Group",
 	"license": "MIT",
 	"sideEffects": false,
